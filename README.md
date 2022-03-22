@@ -1,3 +1,5 @@
+#this is a qb-clothing modified to work with my qb-charcreator
+
 # qb-clothing
 Clothing for QB-Core Framework :dress:
 
