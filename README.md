@@ -1,5 +1,12 @@
 # this is a qb-clothing modified to work with my qb-charcreator
 
+## Why you need this to work?
+- because qb-clothing original work with face features division the number int to 10 that is the minimum is 0 and max is 30 he divide to 10 and received 1.0, 1.1
+ and so on my qb-charcreator no, the options is -1.0 at 1.0 look like say in description of FiveM native [face features native](https://docs.fivem.net/natives/?_0x71A5C1DBA060049E)
+
+
+- 
+
 # qb-clothing
 Clothing for QB-Core Framework :dress:
 
@@ -23,31 +30,14 @@ Clothing for QB-Core Framework :dress:
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
+## YOU NEED MY QB-CHARCREATOR TO WORK 
+- [qb-charcreator](https://discord.gg/TCNqEN5T8a)
 
-## Screenshots
-![image](https://user-images.githubusercontent.com/66404074/153545004-6337e685-d3a5-478c-8fa2-e50f4b1d2030.png)
-![image](https://user-images.githubusercontent.com/66404074/153545067-aa9269c9-3bbc-4ce2-bbcf-2dfcff6bbc05.png)
-![image](https://user-images.githubusercontent.com/66404074/153545114-0a363fa3-5981-424a-9894-baf15ea1da40.png)
-![image](https://user-images.githubusercontent.com/66404074/153545159-255920cc-baf4-4cbb-a569-29b43298638e.png)
-![image](https://user-images.githubusercontent.com/66404074/153545179-b4958a16-7ec4-4ae6-a341-ba3786c0042d.png)
-![image](https://user-images.githubusercontent.com/66404074/153545214-cb308b2f-9fc4-460b-b630-2dbd80033481.png)
-
-## Features
-- Configurable Ped Selection
-- Detailed nose, chin, jaw, cheek etc. configuration
-- Camera Rotating
-- 3 Different Camera Angles
-- Clothing Stores
-- Barbers
-- Job Locker Rooms (Configurable Outfit Presets)
-- Saveable Outfits
-- /hat, /glasses, /mask (See the commands section below)
-
-### Commands
-- /skin (Admin Only) - Opens the clothing menu
-- /hat - Toggles the hat on/off
-- /mask - Toggles the hmaskat on/off
-- /glasses - Toggles the glasses on/off
+## New Features
+hair highlight color
+face features from -1.0 to 1.0
+blemishes, makeup, blush with opacity
+makeup with two colors to set
 
 ## Installation
 ### Manual
