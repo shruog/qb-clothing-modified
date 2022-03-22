@@ -1,8 +1,7 @@
 # this is a qb-clothing modified to work with my qb-charcreator
 
 ## Why you need this to my qb-charcreator work?
-- because qb-clothing original work with face features division the number int to 10 that is the minimum is 0 and max is 30 he divide to 10 and received 1.0, 1.1
- and so on my qb-charcreator no, the options is -1.0 at 1.0 look like say in description of FiveM native [face features native](https://docs.fivem.net/natives/?_0x71A5C1DBA060049E)
+- because qb-clothing original work with face features dividing the number int to 10 that is the 0 is the minimum and 30 is the maximum it divide to 10 and receive 1.0, 1.1, 1.2  therefore my qb-charcreator work with following options -1.0 at 1.0 as described in the description of FiveM native [face features native](https://docs.fivem.net/natives/?_0x71A5C1DBA060049E)
 
 # original script
 
